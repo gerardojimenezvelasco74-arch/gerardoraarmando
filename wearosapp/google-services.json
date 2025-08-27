@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "591240704422",
+    "firebase_url": "https://listacompartida-8299b-default-rtdb.firebaseio.com",
+    "project_id": "listacompartida-8299b",
+    "storage_bucket": "listacompartida-8299b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591240704422:android:71fbdff4ce4a6973dedf67",
+        "android_client_info": {
+          "package_name": "com.example.listacompartida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2srQm2GKisuqnZUb7l9V3cGl35BxBZp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591240704422:android:5b6c01a9017bf631dedf67",
+        "android_client_info": {
+          "package_name": "com.example.tv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2srQm2GKisuqnZUb7l9V3cGl35BxBZp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591240704422:android:841feb5d6ae89a00dedf67",
+        "android_client_info": {
+          "package_name": "com.example.wearosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2srQm2GKisuqnZUb7l9V3cGl35BxBZp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

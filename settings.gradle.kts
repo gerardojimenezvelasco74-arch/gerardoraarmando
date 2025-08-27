@@ -23,3 +23,5 @@ rootProject.name = "ListaCompartida"
 include(":app")
 include(":app:tv")
 include(":tv")
+include(":app:wearosapp")
+include(":wearosapp")
